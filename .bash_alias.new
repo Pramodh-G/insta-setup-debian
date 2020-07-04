@@ -1,0 +1,5 @@
+alias python="python3"
+alias connect="ssh pramodh@gpu2.cse.iitk.ac.in"
+alias run="./a.out"
+alias tunnel="ssh -N -f -L 8888:127.0.0.1:8889 pramodh@gpu2.cse.iitk.ac.in"
+alias speed="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -"

@@ -1,0 +1,10 @@
+numpy
+pandas
+howdoi
+jupyter
+matplotlib
+torchvision
+torch
+torch-summary
+sklearn
+beautifulsoup4
